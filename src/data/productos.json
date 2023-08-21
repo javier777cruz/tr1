@@ -1,0 +1,71 @@
+[
+    {
+        "name":  "te heredia",
+        "price": "200",
+        "category": "para tomar te",
+        "description": "te de sabores",
+        "image": "te surtidos.jpn"
+    },
+ 
+
+    {  
+        "name":  "te",
+        "price": "150",
+        "category": "para toamr te",
+        "description": "te de sabores",
+        "image": "te hierbas"
+    },
+
+
+    {
+        "name":  "te",
+        "price": "100",
+        "category": "para toamr te",
+        "description": "te de sabores",
+        "image": "te fuerte"
+    },
+
+
+
+    {
+    "name":  "te",
+        "price": "300",
+        "category": "para tomarcte",
+        "description": "te en bolsa mas cantidad",
+        "image": "te bolsa"
+    },
+
+
+
+    {
+        "name":  "te",
+       "price": "200",
+       "category": "para toamr te",
+       "description": "te multifruta de todos los sabores",
+       "image": "te multifrutales"
+    },
+
+
+    {
+        "name":  "te",
+        "price": "200",
+        "category": "para toamr te",
+        "description": "te surtido de gran cantidad para tomar",
+        "image": "te surtido"
+    },
+
+
+    {
+        "name":  "te",
+        "price": "200",
+        "category": "para toamr te",
+        "description": "te ",
+        "image": "te"
+    }
+  
+
+
+
+
+
+]
